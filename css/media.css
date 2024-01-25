@@ -1,0 +1,698 @@
+
+
+@media only screen and (max-width:1459px) {
+	.book-now-inner {
+		margin-top: -58px;
+	}
+	.bnr-cont {
+		top: 44%;
+	}
+	.map iframe {
+		width: 100%;
+		height: 450px;
+	}
+	
+	/*inner pages*/
+	.inner-banner{padding:180px 0 60px;}
+	.inner-banner h2{font-size:60px; line-height:70px;}
+	.inner-left-cont{width:65%;}
+	.inner-right-cont{width:32%;}
+	.inner-left-cont h2{margin-bottom:30px;}
+	.gat-list{margin-bottom:30px;}
+	.relative-attraction-sec, .abt-mn-sec, .about-room-sec, .about-banner, .inner-main-sec{padding:80px 0;}
+	.attaction-left{float:left; width:40%;}
+	.attaction-right{width:58%;}
+	.attaction-left .owl-thumbs button{width:calc(100% / 4 - 10px); height:auto;}
+	.attaction-right a{margin-top:10px;}
+}
+.stat-icon-box img{
+    width:65px;
+}
+@media only screen and (max-width:1365px) {
+	h2 {
+		font-size:38px;
+	}
+	h1 {
+		font-size: 72px;
+		line-height: 94px;
+	}
+	.adventure-cont {
+	    padding: 47px 0px 75px;
+	}
+	.tab-sec {
+		padding-bottom: 80px;
+	}
+	.rooms-heading {
+    padding: 50px;
+		margin-bottom: 50px;
+	}
+	.room-sec, .amenities,
+	.testimonial-sec,
+	.top-footer {
+		padding: 80px 0;
+	}
+	.near-attraction {
+		padding: 80px 0 50px;
+	}
+	.near-attraction h2 {
+		margin-bottom: 20px;
+	}
+	.foot-contact li span {
+		width: 80%;
+	}
+	.foot-contact li a {
+		font-size: 16px;
+	}
+	.map iframe {
+		width: 100%;
+		height: 400px;
+	}
+	
+	/*inner pages*/
+	.inner-main-sec {padding:80px 0;}
+	.inner-left-cont h2{margin-bottom:30px;}
+	.antity-left{width:55%;}
+	.antity-right{width:45%;}
+	.icon-list li{margin-bottom:20px;}
+	
+	/* ABOUT*/
+	.about-left{width:38%;}
+	.about-right{width:60%;}
+	.relative-attraction-outer{margin-top:0;}
+	 h3{font-size:30px;}
+	.attaction-right{margin-top:-15px;}
+	.relative-attraction-cont{padding:40px 15px 30px;}
+	.gat-list{margin-bottom:20px;}
+	.attaction-right p{margin-bottom:15px;}
+	.foot-logo{margin-bottom:20px;}
+	
+	
+	/*contact us*/
+	.contact-left{width:40%; }
+	.contact-right{width:58%; }
+	.contact-right h3, .contact-left h3{margin-bottom:30px;}
+	
+	.amenities-left ul li{width:24%;}
+	
+	.antity-left{width:100%;}
+	.antity-left h2{margin-bottom:20px;}
+	
+	.submit_outer input{font-size:14px;}
+}
+
+@media only screen and (max-width:1199px) {
+	.bottom-header ul li a {
+		padding: 8px 28px 8px;
+	}
+	.logo {
+		max-width: 100px;
+	}
+	.logo:after {
+		width: 260px;
+		height: 94px;
+	}
+	.bottom-header {
+		padding: 25px 0;
+	}
+	.top-header a {
+		font-size: 20px;
+	}
+	h1 {
+		font-size: 65px;
+		line-height: 85px;
+	}
+	.book-now-left ul li:after {
+		height: 65px;
+	}
+	h2 {
+		font-size: 32px;
+		line-height: 48px;
+	}
+	.tabs-btn {
+		margin-bottom: 45px;
+	}
+	.tab-sec {
+		padding-bottom: 60px;
+	}
+	.rooms-heading {
+		margin-bottom: 30px;
+	}
+	h3 {
+		font-size: 30px;
+		line-height: normal;
+	}
+	.amenities .amenities-left ul li {
+		white-space: nowrap;
+	}
+	.amenities h2 {
+		margin-bottom: 10px;
+	}
+	.room-sec, .amenities,
+	.testimonial-sec,
+	.top-footer {
+		padding: 60px 0;
+	}
+	.map-cont p {
+		font-size: 18px;
+		line-height: 26px;
+	}
+	.attraction-cont figure {
+		max-width: 50px;
+		margin-right: 8px;
+	}
+	.attraction-cont h6 {
+		font-size: 15px;
+		line-height: normal;
+	}
+	.attraction-cont {
+		min-height: 118px;
+	}
+	.near-attraction {
+		padding: 60px 0 30px;
+	}
+	.test-left i {
+		margin-right: 8px;
+		max-width: 40px;
+	}
+	.testimonial-cont-top ul li {
+		max-width: 16px;
+	}
+	.testimonial-cont-top ul {
+		margin-top: 6px;
+	}
+	.test-left {
+		float: none;
+	}
+	.testimonial-cont-top ul {
+		float: none;
+	}
+	.foot-logo {
+		max-width: 100px;
+	}
+	.foot-contact li a {
+		word-break: break-all;
+	}
+	.book-now-left ul li:after {
+		right: 20px;
+	}
+	
+	.book-now-right{margin-left:-20px;}
+	
+	/*nner page*/
+		.inner-banner{padding:150px 0 60px;}
+		.inner-main-sec{padding:60px 0;}
+		.inner-left-cont h2{font-size:40px; line-height:50px;}
+		.gat-list li{font-size:16px; margin-right:10px;}
+		.inner-contact{padding:20px 0;}
+		
+		.inner-right-cont h3{font-size:32px; line-height:40px;}
+		.related-box{flex-wrap:wrap;}
+		.related-cont{margin-left:0; margin-top:15px;}
+		.antity-left{width:100%;}
+		.antity-right{float:left; width:100%;}
+		
+		
+		/*about*/
+		.relative-attraction-sec, .inner-main-sec, .abt-mn-sec, .about-room-sec, .about-banner{padding:60px 0;}
+		.abt-mn-box h2, .about-left h2, .about-room-right h2{margin-bottom:8px;}
+		.abt-mn-box p, .about-room-right p{margin-bottom:15px;}
+		
+		h3{font-size:28px;}
+		
+		.attaction-right p:nth-child(2), .attaction-right p:nth-child(4){display:none;}
+		.attaction-left{width:45%;}
+		.attaction-right{width:53%;}
+		.relative-attraction-cont h3{min-height:inherit; }
+		.attaction-right a{padding:10px 20px;}
+		.kms{padding: 8px 20px;}
+		.bottom-header ul li a{padding: 8px 22px 8px;}
+		.attaction-right h2{margin-bottom:10px;	}
+		
+		
+		/*contact us*/
+		.foot-contact li i{width:40px; }
+		.contact-left .foot-contact li{padding-left:55px; margin-bottom:20px;}
+		.contact-left .foot-contact li i{top:4px;}
+		.contact-left{width:45%;}
+		.contact-right{width:53%;}
+		.contact-left .foot-contact span{width:100%;}
+		.contact-right .txt-row{margin-bottom:30px;}
+		.contact-right .txt-fld textarea, .contact-right .txt-fld input{font-size:16px;}
+		
+		.amenities-left ul li{width:32%;}
+		.antity-left .width-50 li:nth-child(2n){display:none;}
+		.antity-left .width-50 li{width:100%;}
+}
+
+@media only screen and (max-width:991px) {
+	.bottom-header {
+		display: none;
+	}
+	.logo {
+		position: static;
+		transform: initial;
+	}
+	.top-header a span {
+		display: none;
+	}
+	header {
+		position: relative;
+	}
+	.logo:after {
+		display: none;
+	}
+	.mob-fixed {
+		position: absolute;
+		top: 46px;
+		right: 80px;
+	}
+	.cd-dropdown-wrapper a.meanmenu-reveal {
+		top: 37px;
+	}
+	.mob-fixed .col-md-6.col-sm-12 {
+		padding: 0;
+	}
+	h1 {
+		font-size: 58px;
+		line-height: 65px;
+	}
+	.bnr-cont {
+		top: 20%;
+	}
+	.book-now-inner {
+		padding: 0 20px 30px;
+	}
+	h2 {
+		font-size: 32px;
+		line-height: 44px;
+	}
+	.adventure-cont-right p {
+		margin-bottom: 20px;
+	}
+	.adventure-cont {
+		padding: 44px 0 50px;
+	}
+	.rooms-cont {
+		    margin: auto;
+    width: 90%;
+	}
+	.room-sec, .amenities,
+	.testimonial-sec,
+	.top-footer {
+		padding: 50px 0;
+	}
+	.amenities-right {
+		margin-top: 30px;
+	}
+	.map-cont {
+		max-width: 428px;
+		padding: 19px 25px;
+	}
+	.attraction-cont {
+		padding: 13px;
+		min-height: 86px;
+	}
+	.near-attraction {
+		padding: 50px 0 20px;
+	}
+	ul.foot-social {
+		margin-bottom: 30px;
+	}
+	.testimonial-cont {
+		height: 100%;
+	}
+	.map iframe {
+		height: 350px;
+	}
+	.book-now-right{margin-top:20px; text-align:center; margin-left:0;}
+	
+	/*inner page*/
+	.inner-banner{padding:80px 0;}
+	.inner-left-cont{width:100%;}
+	.inner-left-cont figure{margin-bottom:20px;}
+	.inner-right-cont{width:100%; float:left; margin-top:30px;}
+	.related-cont{margin-top:0; margin-left:20px; }
+	.related-box{justify-content:flex-start;}
+	
+	/*about us*/
+	.about-left{width:100%; margin-bottom:5px;}
+	.about-right{width:100%; float:left;}
+	.about-room-right p:last-child{display:none;}
+	
+	.attaction-left{width:100%;}
+	.relative-attraction-box figure img, .attaction-left figure img{width:100%;}
+	.attaction-outer{flex-wrap:wrap;}
+	.attaction-right{margin-top:30px; float:left; width:100%;}
+	.relative-attraction-cont{padding:30px 15px 30px;}
+	
+	.contact-outer{flex-wrap:wrap; flex-direction: column-reverse;}
+	.contact-left{width:100%; margin-top:30px;}
+	.contact-right{width:100%;}
+	.contact-right h3, .contact-left h3{margin-bottom:20px;}
+	
+	.antity-left .width-50 li{width:50%;}
+	.antity-left .width-50 li:nth-child(2n){display:block;}
+	.inner-cont-form .parsley-errors-list li{padding-top:5px; padding-left:15px; padding-bottom:10px;}
+	.head-contact a i{margin-right:5px;}
+	
+	.foot-link li{width:100%;}
+	
+	.adventure-cont-right{max-width:80%; margin:0 auto; margin-top:30px;}
+	.homepartnersleft{margin-top:20px;}
+	.homepartners{width:calc(100% / 3 - 12px); padding:17px;}
+	.homepartners:nth-child(3n){margin-right:0;}
+	.homepartnersleft{display:flex; flex-wrap:wrap;}
+}
+.p-5 .col-sm-6 a:hover{
+    color:#d6a228;
+}
+@media only screen and (max-width:767px) {
+	.mob-fixed .col-md-6.col-sm-12 {
+		max-width: 50%;
+	}
+	h1 {
+		font-size: 43px;
+		line-height: 52px;
+	}
+	.book-now-inner {
+		margin-top: 40px;
+	}
+	.book-now-left ul li {
+		width: 50%;
+		margin: 15px 0;
+	}
+	.book-now-left ul li:nth-child(3n):after {
+		display: block;
+	}
+	.book-now-left ul li:nth-child(2n):after {
+		display: none;
+	}
+	.book-now-right {
+		margin-top: 20px;
+	}
+	.adventure-cont-left {
+		margin-bottom: 10px;
+	}
+	.link-btn {
+		padding: 8px 28px;
+	}
+	.tabs-btn {
+		margin-bottom: 35px;
+	}
+	.tab-sec {
+		padding-bottom: 40px;
+	}
+	.rooms-cont img {
+		width: 100%;
+	}
+	.room-sec, .amenities,
+	.testimonial-sec,
+	.top-footer {
+		padding: 40px 0;
+	}
+	.map-cont i {
+		max-width: 26px;
+	}
+	.map-cont p {
+		font-size: 16px;
+		line-height: 23px;
+	}
+	h2 {
+		font-size: 28px;
+		line-height: 38px;
+	}
+	
+	.foot-link li{width:50%;}
+	.logo a{display:inline-block; width:80px;}
+	.logo a img{width:100%;}
+	.mob-fixed{top:30px;}
+	.cd-dropdown-wrapper a.meanmenu-reveal{top:22px;}
+	.testimonial-cont {
+		height: auto;
+		margin-bottom: 30px;
+	}
+	.foot-link {
+		margin-bottom: 30px;
+	}
+	.foot-col h5 {
+		margin-bottom: 12px;
+	}
+	.amenities {
+		padding-top: 10px;
+	}
+	.testimonial-sec {
+		padding-bottom: 10px;
+	}
+	
+	.adventure-cont-right{max-width:100%;}
+	
+	.bnr-cont {
+		top: 25%;
+	}
+	.map iframe {
+		height: 300px;
+	}
+	
+	.book-now-left ul li:nth-child(3n)::after , .book-now-left ul li::after {display:none;}
+	.book-now-left ul li{width:48%;}
+	.book-now-left ul li:nth-child(2n){float:right;}
+	.book-now-left ul li select,  .book-now-left ul li input{width:100%;}
+	.book-now-right{text-align:center;	}
+	
+	
+	/*inner pagee*/
+	.inner-banner{padding:60px 0;}
+	.inner-banner h2{font-size:50px; line-height:60px;}
+	.related-box {    flex-wrap: inherit;}
+	
+	
+	/*about us*/
+	.relative-attraction-sec, .abt-mn-sec, .about-room-sec, .about-banner{padding:50px 0;}
+	.about-room-left{width:100%;}
+	.abt-mn-outr, .about-room-outer{flex-wrap:wrap;}
+	.about-room-right{width:100%; margin-top:20px;}
+	.abt-mn-box{width:100%; }
+	.abt-mn-box h2 br{display:none;}
+	.abt-mn-box:last-child{margin-top:30px;}
+	.relative-attraction-box{margin-top:30px;}
+	.relative-attraction-sec h2{margin-bottom:0; text-align:left;}
+	.relative-attraction-cont h3 br{display:none;}
+	
+	.amenities-left ul li{width:49%;}
+	.inner-left-cont h2{margin-bottom:15px;}
+	.new-slider-room-sec{margin-bottom:10px;}
+	.pa-tab{margin-bottom:0;}
+	.book-now-left ul li{padding-bottom:0;}
+	.foot-logo{margin-bottom:40px;}
+	
+	
+	.bulets1 ul{width:100%;}
+	.pa-outer h5{padding-bottom:10px;}
+	
+	
+}
+
+
+@media only screen and (max-width:575px) {
+	h1 {
+		font-size: 36px;
+		line-height: 46px;
+	}
+		.corporate-edit{
+	    padding:0px;
+	    background-image: url(https://lexpremier.in/images/about1.jpg);
+	}
+	.book-now-left ul li {
+		width: 100%;
+	}
+	.book-now-left ul li:after {
+		display: none !important;
+	}
+	.book-now-left ul li {
+		margin: 8px 0;
+	}
+	.book-now-inner {
+		padding: 20px 20px 30px;
+	}
+	.link-btn {
+		padding: 8px 21px;
+		font-size: 15px;
+	}
+	.tab-sec figure img {
+		width: 100%;
+	}
+	h2 {
+		font-size: 26px;
+	}
+	.rooms-heading .col-md-6.col-sm-6 {
+		max-width: 50%;
+	}
+	h3 {
+		font-size: 24px;
+	}
+	.map-cont {
+		max-width: 368px;
+		padding: 12px 25px;
+		left: 10%;
+	}
+	
+	.book-now-left {float:left; width:100%;}
+	.book-now-left ul li{padding-bottom:15px; padding-top:0;}
+	
+	.homepartners h6{padding-top:0;}
+	.homepartners p{padding-bottom:0;}
+	.rooms-heading{margin-bottom:0; width:100%;}
+	.testimonial-sec .rooms-heading{margin-bottom:0;}
+	/**/
+	.inner-main-sec{padding:50px 0;}
+	.inner-left-cont h2{margin-bottom:20px;}
+	.antity-sec{margin-top:15px;}
+	.related-cont h5{font-size:22px;}
+	.foot-contact li:nth-child(2) {display:block;}
+	.foot-contact li a{word-break: inherit;}
+	
+	/*about us*/
+	.abt-mn-sec, .about-room-sec, .about-banner{padding:40px 0;}
+	.abt-mn-box h2, .about-left h2, .about-room-right h2{margin-bottom:10px;}
+	
+	.kms{position:relative; top:auto; right:0; margin-bottom:15px;}
+	.kms i{width:20px; display:inline-block;}
+	.kms {font-size:14px;}
+	.relative-attraction-cont{padding:20px 15px;}
+	.relative-attraction-cont p{margin-bottom:10px;}
+	
+	/*contact us*/
+	.contact-left .foot-contact li{margin-bottom:15px;}
+	.contact-right .txt-row{margin-bottom:25px;}
+	.width-50 .txt-fld{float:left; width:100%; margin-bottom:25px;}
+	.width-50 .txt-fld:last-child{float:left; margin-bottom:0;}
+	
+	.antity-left .width-50 li{width:100%;}
+	.antity-left h2{margin-bottom:10px;}
+	.book-now-left ul li{padding-bottom:0;}
+	.submit_outer input{font-size:16px;}
+}
+.about3{
+    box-shadow: 0 0 30px 0 rgb(177 177 177 / 50%);
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+}
+.card-style{
+    text-align:center;
+}
+.stat-title{
+    margin-top:20px;
+    font-size:21px;
+}
+.card-margin{
+      box-shadow: 0 0 30px 0 rgb(177 177 177 / 50%);
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    margin-top:30px;
+}
+@media only screen and (max-width:1589px) {
+    
+    	.corporate-edit{
+	    padding:20px;
+	    background-image: url(https://lexpremier.in/images/about1.jpg);
+	}
+}
+@media only screen and (max-width:479px) {
+	.logo {
+		max-width: 80px;
+	}
+	.amenities .amenities-left ul {
+		float: none;
+		width: 100%;
+	}
+	.map-cont {
+		display: none;
+	}
+	.mob-fixed a {
+		max-width: 45px;
+		display: block;
+	}
+	.mob-fixed {
+		top: 32px;
+	}
+	.cd-dropdown-wrapper a.meanmenu-reveal {
+		top: 27px;
+	}
+	h1 {
+		font-size: 24px;
+		line-height: normal;
+	}
+	.book-now-left ul li span {
+		font-size: 14px;
+	}
+	.book-now-left ul li font {
+		font-size: 16px;
+	}
+	h2 {
+		font-size: 22px;
+		line-height: normal;
+	}
+	.tabs-btn li {
+		margin: 5px 0;
+	}
+	.adventure-cont {
+		padding: 34px 0 30px;
+	}
+	.rooms-head-right {
+		font-size: 15px;
+	}
+	h3 {
+		font-size: 20px;
+		line-height:28px;
+	}
+	.testimonial-sec .rooms-heading .col-md-6.col-sm-6 {
+		max-width: 100%;
+	}
+	.testimonial-sec .rooms-head-right {
+		text-align: left;
+		margin-top: 10px;
+	}
+	.map iframe {
+		height: 250px;
+	}
+	
+	/*inne page*/
+	.inner-banner{padding:40px 0;}
+	.inner-banner h2{font-size:40px; line-height:50px;}
+	.inner-left-cont h2{font-size:30px; line-height:40px;}
+	.gat-list li{margin-top:10px;}
+	.inner-left-cont h2{margin-bottom:10px;}
+	.width-50 li{float:left; width:100%;}
+	.width-50 li:nth-child(2n){float:left;}
+	.icon-list li{margin-bottom:15px;}
+	.icon-list li:last-child{margin-bottom:0;}
+	.best-related-room{padding:15px 0;}
+	.related-box{flex-wrap:wrap; }
+	.related-cont{margin-left:0; margin-top:15px;}
+	.inner-right-cont h3{font-size:22px; line-height:30px;}
+	.foot-contact li a{word-break: break-all;}
+	.foot-contact li span{width:100%;}
+	.foot-logo{margin-bottom:15px;}
+	.foot-col .foot-link{width:100%;}
+	.inner-main-sec{padding:30px 0;}
+	.txt-fld{padding:10px 20px;}
+	.txt-fld:nth-last-child(2){padding-bottom:10px;}
+	
+	
+	/*about us*/
+	.abt-mn-sec, .about-room-sec, .about-banner{padding:30px 0;}
+	.attaction-left .owl-dots{display:none;}
+	.attaction-left .owl-thumbs{margin-top:10px;}
+	.relative-attraction-cont h3{margin-bottom:10px;}
+	
+	.contact-right .txt-fld:nth-last-child(2){padding-bottom:0;}
+	.contact-right h3, .contact-left h3{margin-bottom:15px;}
+	.amenities-left ul li{width:100%;}
+	
+	
+	.homepartners{margin-right:-90px; width:68%;}
+	.homepartnersleft{justify-content: space-between;}
+}
+
