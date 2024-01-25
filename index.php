@@ -15,7 +15,8 @@
       <link rel="stylesheet" type="text/css" href="js/parsley.css" />
       <link rel="stylesheet" href="css/magnific-popup.css" />
       <link rel="stylesheet" href="css/font-awesome.min.css">
-      <script src="js/jquery-2.1.4.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
       <!-- Global site tag (gtag.js) - Google Analytics -->
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-PGEVD3HJR0"></script>
       <script>
@@ -378,7 +379,6 @@
          </div>
       </div>
    </div>
-   <script src="js/bootstrap.min.js"></script>
    <script src="js/wow.js"></script>
    <script src="js/parsley.js"></script>
    <script src="js/modernizr.min.js"></script>
@@ -391,7 +391,9 @@
       
          setTimeout(function(){  
             if(!getCookie('approved'))
+            {
                $('#myModel').modal('show')
+            }
          },2000);
       
          $('.btn-dismiss').on('click', function(){
